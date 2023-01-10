@@ -1,0 +1,34 @@
+C:\Users\Lemon\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.exe
+C:\Users\Lemon\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.deps.json
+C:\Users\Lemon\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.runtimeconfig.json
+C:\Users\Lemon\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.runtimeconfig.dev.json
+C:\Users\Lemon\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.dll
+C:\Users\Lemon\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.pdb
+C:\Users\Lemon\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csproj.AssemblyReference.cache
+C:\Users\Lemon\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.Form1.resources
+C:\Users\Lemon\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csproj.GenerateResource.cache
+C:\Users\Lemon\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemon\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.AssemblyInfoInputs.cache
+C:\Users\Lemon\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.AssemblyInfo.cs
+C:\Users\Lemon\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Lemon\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.dll
+C:\Users\Lemon\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.pdb
+C:\Users\Lemon\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.genruntimeconfig.cache
+C:\Users\buren\OneDrive\Рабочий стол\xd\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.dll
+C:\Users\buren\OneDrive\Рабочий стол\xd\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.pdb
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.exe
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.deps.json
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.runtimeconfig.json
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.runtimeconfig.dev.json
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.dll
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.pdb
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.Form1.resources
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.AssemblyInfo.cs
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.dll
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.pdb
+C:\Users\Максим\Desktop\infa\infa\Saper\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.genruntimeconfig.cache
